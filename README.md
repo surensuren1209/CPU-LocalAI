@@ -49,6 +49,6 @@ This command will automatically download the Mistral model and start a chat sess
 To run this code, simply open your terminal, navigate to the project directory, and execute:
 
 ```Shell
-python LocalAI.py
+python localAI.py
 ```
 
